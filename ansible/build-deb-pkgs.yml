@@ -1,6 +1,7 @@
 ---
 - hosts: [ 'build' ]
-
+  vars_files:
+    - ../ansible_vars.json
   vars:
     ossec_server_hostname: ossec-server
     download_url: "https://github.com/ossec/ossec-hids/archive"
