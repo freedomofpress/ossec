@@ -1,5 +1,6 @@
 require 'net/http'
 require 'json'
+require 'digest'
 
 desc 'Build RPMs'
 
