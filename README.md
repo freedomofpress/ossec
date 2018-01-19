@@ -1,3 +1,7 @@
+_This repository is no longer maintained. The OSSEC packages for SecureDrop
+are managed in SecureDrop repository:
+https://github.com/freedomofpress/securedrop_
+
 # OSSEC for Ubuntu
 OSSEC server and agent packages for Ubuntu
 
